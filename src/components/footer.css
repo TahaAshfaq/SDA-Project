@@ -1,0 +1,22 @@
+#foot{
+    background:#04001B ;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    padding:50px 100px;
+}
+#foot ul li{
+    list-style: none;
+    margin: 10px;
+}
+#foot ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+}
+#foot ul li a:hover{
+    text-decoration: none;
+    color: #00D1FF;
+}
